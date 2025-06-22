@@ -23,7 +23,8 @@ A full-featured **Blog Management System** built using the **MERN Stack (MongoDB
 
 > Replace the image path below with your own if hosted on GitHub or local repo.
 
-![Dashboard Preview](./assets/dashboard.png)
+![Dashboard Preview](![QuicBlog Images](https://github.com/user-attachments/assets/d053de01-ff72-4f45-8c0e-156f40619d2c)
+)
 
 ---
 
